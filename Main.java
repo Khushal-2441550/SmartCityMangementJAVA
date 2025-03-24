@@ -10,7 +10,7 @@ public class Main extends JFrame {
 
     private final String URL = "jdbc:mysql://localhost:3306/smartcity";
     private final String USER = "root";
-    private final String PASS = "password";
+    private final String PASS = "Khushal@123";
 
     public Main() {
         setTitle("Smart City Management");
